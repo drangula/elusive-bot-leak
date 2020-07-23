@@ -1,0 +1,23 @@
+{
+  "ime": "Elusive™ Community",
+  "prefix": "!",
+  "red": "#b70000",
+  "orange": "#ff6a00",
+  "green": "#00ff26",
+  "purple": "#d604cf",
+  "verzija": "1.0.0",
+  "owner": {
+    "name": "APOLLO#2022",
+    "id": "649708455342505984"
+  },
+  "dev": {
+    "name": "Apollo#0001",
+    "id": "447324949061828608"
+  },
+  "update": "24.06.2020",
+  "embed": {
+    "color": "#ff5b5b",
+    "devcolor": "#ffad5c",
+    "footer": "Elusive™ Community"
+  }
+}

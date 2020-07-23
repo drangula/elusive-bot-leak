@@ -1,0 +1,39 @@
+{
+  "name": "elusive-bot",
+  "version": "3.2.0b",
+  "description": "Elusive Discord Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^7.1.0",
+    "delay": "^4.3.0",
+    "discord-anti-spam": "^2.4.1",
+    "discord.js": "^12.2.0",
+    "enmap": "^5.3.1",
+    "express": "^4.17.1",
+    "hastebin-gen": "^2.0.5",
+    "ms": "^2.1.2",
+    "node-gyp": "^7.0.0",
+    "parse-ms": "^2.0.0",
+    "quick.db": "^7.1.1",
+    "smart-timeout": "^2.5.0",
+    "util": "^0.12.3",
+    "ytdl-core-discord": "^1.2.0",
+    "@discordjs/opus": "^0.3.2",
+    "pls": "^0.1.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/build-a-discord-bot"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
